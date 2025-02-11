@@ -1,4 +1,4 @@
-
+--Top 10 interview question in pending 
 create table emp1 (
 emp1_id int,
 emp1_name varchar(20),
